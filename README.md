@@ -121,4 +121,4 @@ author = {Xiaoxin Mi and Zhen Dong and Zhipeng Cao and Bisheng Yang and Zhen Cao
 We sincerely thank the excellent projects:
 
 - [Pointcept](https://github.com/Pointcept/Pointcept) for base code framework;
-- [FreeReg](https://github.com/WHU-USI3DV/FreeReg)  and [SparseDC](https://github.com/WHU-USI3DV/SparseDC)for readme template.
+- [FreeReg](https://github.com/WHU-USI3DV/FreeReg)  and [SparseDC](https://github.com/WHU-USI3DV/SparseDC) for readme template.
